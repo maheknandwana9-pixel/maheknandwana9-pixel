@@ -1,126 +1,125 @@
+
 <p align="center">
-  <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" alt="Data Analyst Banner" width="100%">
+  <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" width="80%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
+
+<h3 align="center">
+Aspiring Data Analyst | SQL | Python | Power BI | Excel
+</h3>
+
+<p align="center">
+Passionate about transforming raw data into meaningful insights and building interactive dashboards that support data-driven decision making.
+</p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-📊 Passionate Data Analyst focused on transforming raw data into meaningful business insights.
-
-🔹 Skilled in Data Cleaning, Data Visualization, Dashboard Development, and Business Analytics.
-
-🔹 Strong foundation in SQL, Python, Power BI, and Excel.
-
-🔹 Interested in solving real-world business problems through data-driven decision making.
-
-🔹 Continuously learning advanced analytics, statistics, and data storytelling techniques.
+- 📊 Aspiring Data Analyst with strong interest in Business Analytics.
+- 🧹 Skilled in Data Cleaning, Data Transformation, and Data Visualization.
+- 📈 Creating dashboards and reports using Power BI and Excel.
+- 🐍 Working with Python for Exploratory Data Analysis (EDA).
+- 🗄️ Writing SQL queries to extract and analyze business insights.
+- 🌱 Continuously learning advanced analytics and data storytelling.
 
 ---
 
-# 🚀 Skills
+## 🚀 Skills
 
 ### 📊 Data Analytics
 - Data Cleaning
 - Data Transformation
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Business Intelligence
+- Business Analytics
 - Dashboard Development
 
 ### 💻 Technical Skills
 
-| Skill | Level |
-|---------|---------|
-| SQL | ⭐⭐⭐⭐⭐ |
-| Python | ⭐⭐⭐⭐ |
-| Power BI | ⭐⭐⭐⭐⭐ |
-| Excel | ⭐⭐⭐⭐⭐ |
-| Statistics | ⭐⭐⭐⭐ |
-| Data Visualization | ⭐⭐⭐⭐⭐ |
-
-### 🛠 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-- Power BI
-- Microsoft Excel
-- SQL Server
-- Jupyter Notebook
-- Git & GitHub
-
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 📈 Mobile Sales Dashboard
+### 📱 Mobile Sales Dashboard
+
 - Built an interactive Power BI dashboard.
-- Analyzed sales trends and KPIs.
-- Created dynamic filters and visualizations.
+- Analyzed mobile sales performance and customer trends.
+- Created KPIs, charts, and business insights.
 
-### Skills Used
-`Power BI` `Data Visualization` `Business Analysis`
+*Tools Used:* Power BI, Excel, Data Visualization
 
 ---
 
-## 🛒 Sales Performance Analysis
+### 📈 Sales Performance Analysis Dashboard
+
 - Cleaned and transformed sales datasets.
 - Performed trend and profitability analysis.
 - Generated actionable business insights.
 
-### Skills Used
-`Excel` `SQL` `Power BI`
+*Tools Used:* Excel, Power BI, Business Analytics
 
 ---
 
-## 🗄 SQL Business Insights Project
-- Wrote complex SQL queries.
-- Created reports using joins, aggregations, and subqueries.
-- Extracted meaningful business metrics.
+## 📊 Tools & Technologies
 
-### Skills Used
-`SQL` `Database Analysis`
-
----
-
-## 🐍 Python Data Analysis
-- Performed EDA using Python.
-- Used Pandas, NumPy, and Matplotlib.
-- Generated visual reports from raw datasets.
-
-### Skills Used
-`Python` `Pandas` `Data Visualization`
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
+- Git & GitHub
+- Jupyter Notebook
 
 ---
 
-# 📫 Connect With Me
+## 🎯 Current Focus
 
-<p align="left">
+- Advanced SQL Queries
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Data Storytelling
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 <a href="https://github.com/maheknandwana9-pixel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:maheknandwana9@example.com">
+
+<a href="mailto:maheknandwana9@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/mahek-nandwana-782a223a8/">
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 🎯 Motto
+## 🎯 Motto
 
 > "Without data, you're just another person with an opinion."
->
-> — W. Edwards Deming
+> 
+>— W. Edwards Deming
 
-📈 Turning data into decisions, and decisions into impact.
+📊 Turning data into insights, and insights into impact.
+
+
+ 
 
 
 
