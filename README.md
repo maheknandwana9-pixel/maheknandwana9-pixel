@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" width="100%"height="100>
+  <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" width="100%"height="400>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
