@@ -1,70 +1,93 @@
 <h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
-Turning raw data into meaningful insights and interactive dashboards.
+Transforming raw data into meaningful insights and interactive dashboards.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🎯 Focus
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
 
-🎓 B.Tech Student
+## 📚 Learning
+- Advanced SQL
+- Pandas
+- Data Visualization
 
-📊 Passionate about Data Analytics & Business Intelligence
+## 🚀 Goal
+Become a Professional Data Analyst and contribute to impactful projects.
 
-🐍 Skilled in Python, SQL, Excel & Power BI
+## 🔭 Currently
+Open Source Contributor
 
-📈 Interested in Data Visualization & Dashboard Development
+---
 
-🌱 Currently learning Advanced SQL, Pandas & Open Source Contribution
+## 👨‍💻 About Me
 
-🚀 Goal: Become a Professional Data Analyst and contribute to impactful projects
+- 🎓 B.Tech Student
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🐍 Skilled in Python, SQL, Excel & Power BI
+- 📈 Interested in Data Visualization and Dashboard Development
+- 🌱 Currently learning Advanced SQL, Pandas & Open Source
+- 🎯 Goal: Build data-driven solutions that create business value
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+### Data Analytics
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 
-### 📈 Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+### Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 
-### 💻 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📈 Sales Performance Analytics Dashboard
-- Interactive Excel Dashboard
-- KPI Tracking
-- Revenue Analysis
-- Sales Trend Visualization
+### 📊 Sales Performance Analysis Dashboard
+Interactive Excel Dashboard to analyze sales performance, revenue trends and KPIs.
 
 ### 📱 Mobile Sales Dashboard
-- Power BI Dashboard
-- Customer Insights
-- Brand-wise Analysis
-- Transaction Analysis
+Power BI Dashboard for mobile sales, customer behavior and brand-wise analysis.
 
-
-
-## 📫 Connect With Me
-
-💼 LinkedIn:
-https://www.linkedin.com/in/mahek-nandwana-782a223a8?
-
-📧 Email:
-maheknandwana9@gmail.com
 
 ---
 
-⭐ "Without data, you're just another person with an opinion."
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+📧 yourmail@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/mahek-nandwana-782a223a8/
+
+
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
