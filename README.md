@@ -1,93 +1,129 @@
-<h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h1 align="center">📊 MAHEK NANDWANA</h1>
+
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
-Transforming raw data into meaningful insights and interactive dashboards.
+Turning Data Into Decisions
+</p>
+
+<p align="center">
+SQL • Python • Power BI • Excel
 </p>
 
 ---
 
-## 🎯 Focus
-- Data Analytics
-- Business Intelligence
-- Dashboard Development
+## 👩‍💻 About Me
 
-## 📚 Learning
-- Advanced SQL
-- Pandas
-- Data Visualization
+Hi, I'm Mahek Nandwana, an aspiring Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.
 
-## 🚀 Goal
-Become a Professional Data Analyst and contribute to impactful projects.
-
-## 🔭 Currently
-Open Source Contributor
+- 📊 Data Analysis & Visualization Enthusiast
+- 📈 Power BI Dashboard Developer
+- 🐍 Learning Advanced Python for Analytics
+- 🗄️ SQL for Data Querying & Exploration
+- 🎯 Interested in Business Intelligence & Data-Driven Decision Making
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Skills
 
-- 🎓 B.Tech Student
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🐍 Skilled in Python, SQL, Excel & Power BI
-- 📈 Interested in Data Visualization and Dashboard Development
-- 🌱 Currently learning Advanced SQL, Pandas & Open Source
-- 🎯 Goal: Build data-driven solutions that create business value
-
----
-
-## 🛠️ Technical Skills
+### Programming & Databases
+- Python
+- SQL
+- MySQL
 
 ### Data Analytics
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-
-### Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+- Power BI
+- Microsoft Excel
+- Git & GitHub
+- VS Code
 
 ---
 
-## 📂 Featured Projects
+## 📊 Tech Stack
 
-### 📊 Sales Performance Analysis Dashboard
-Interactive Excel Dashboard to analyze sales performance, revenue trends and KPIs.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
+
+---
+
+## 📈 Skills Dashboard
+
+```text
+SQL            ██████████████░░ 90%
+Power BI       █████████████░░░ 88%
+Excel          ████████████░░░░ 85%
+Python         ███████████░░░░░ 80%
+Statistics     ██████████░░░░░░ 75%
+Data Analysis  ██████████████░░ 92%
+```
+
+---
+
+## 🚀 Featured Projects
 
 ### 📱 Mobile Sales Dashboard
-Power BI Dashboard for mobile sales, customer behavior and brand-wise analysis.
 
+**Tools:** Power BI, Excel
+
+- Built an interactive dashboard for mobile sales analysis
+- Tracked total sales, quantity sold and customer trends
+- Created KPI cards and dynamic visualizations
+- Analyzed brand-wise and region-wise performance
+
+### 📈 Sales Performance Dashboard
+
+**Tools:** Power BI, Excel
+
+- Developed a business performance dashboard
+- Monitored revenue and sales KPIs
+- Identified top-performing products and sales trends
+- Generated actionable business insights
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheknandwana9-pixel&theme=github-dark)
----
-
-## 📊 Skills Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./assets/skills-chart.png" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maheknandwana9-pixel&show_icons=true&theme=tokyonight" />
 </p>
----
-
-## 🤝 Let's Connect
-
-📧 maheknandwana9@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/mahek-nandwana-782a223a8/
-
-
-
----
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheknandwana9-pixel&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced SQL Queries
+- Data Visualization
+- Power BI Dashboards
+- Python for Data Analytics
+- Real-World Business Case Studies
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mahek-nandwana-782a223a8/
+- 📧 Email: maheknandwana9@gmail.com
+- 🐙 GitHub: https://github.com/maheknandwana9-pixel
+
+---
+
+## 💡 Motto
+
+> "Without data, you're just another person with an opinion."
+>
+> — W. Edwards Deming
+
 ⭐ Thanks for visiting my profile!
-</p>
+
+
