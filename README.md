@@ -5,9 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
 
-<h3 align="center">
+<h4 align="center">
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
-</h3>
+</h4>
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights and building interactive dashboards that support data-driven decision making.
