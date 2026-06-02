@@ -114,7 +114,7 @@ Passionate about transforming raw data into meaningful insights and building int
 
 > "Without data, you're just another person with an opinion."
 > 
->— W. Edwards Deming
+
 
 📊 Turning data into insights, and insights into impact.
 
