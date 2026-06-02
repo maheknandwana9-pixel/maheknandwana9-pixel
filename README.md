@@ -1,129 +1,129 @@
-<h1 align="center">📊 MAHEK NANDWANA</h1>
-
-<h3 align="center">Data Analyst</h3>
-
 <p align="center">
-Turning Data Into Decisions
+  <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" alt="Data Analyst Banner" width="100%">
 </p>
 
-<p align="center">
-SQL • Python • Power BI • Excel
-</p>
+<h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-Hi, I'm Mahek Nandwana, an aspiring Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.
+📊 Passionate Data Analyst focused on transforming raw data into meaningful business insights.
 
-- 📊 Data Analysis & Visualization Enthusiast
-- 📈 Power BI Dashboard Developer
-- 🐍 Learning Advanced Python for Analytics
-- 🗄️ SQL for Data Querying & Exploration
-- 🎯 Interested in Business Intelligence & Data-Driven Decision Making
+🔹 Skilled in Data Cleaning, Data Visualization, Dashboard Development, and Business Analytics.
+
+🔹 Strong foundation in SQL, Python, Power BI, and Excel.
+
+🔹 Interested in solving real-world business problems through data-driven decision making.
+
+🔹 Continuously learning advanced analytics, statistics, and data storytelling techniques.
 
 ---
 
-## 🛠️ Skills
+# 🚀 Skills
 
-### Programming & Databases
-- Python
-- SQL
-- MySQL
-
-### Data Analytics
+### 📊 Data Analytics
 - Data Cleaning
-- Data Visualization
+- Data Transformation
 - Exploratory Data Analysis (EDA)
+- Data Visualization
 - Business Intelligence
+- Dashboard Development
 
-### Tools
+### 💻 Technical Skills
+
+| Skill | Level |
+|---------|---------|
+| SQL | ⭐⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐⭐ |
+| Power BI | ⭐⭐⭐⭐⭐ |
+| Excel | ⭐⭐⭐⭐⭐ |
+| Statistics | ⭐⭐⭐⭐ |
+| Data Visualization | ⭐⭐⭐⭐⭐ |
+
+### 🛠 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
 - Power BI
 - Microsoft Excel
+- SQL Server
+- Jupyter Notebook
 - Git & GitHub
-- VS Code
 
 ---
 
-## 📊 Tech Stack
+# 📂 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+## 📈 Mobile Sales Dashboard
+- Built an interactive Power BI dashboard.
+- Analyzed sales trends and KPIs.
+- Created dynamic filters and visualizations.
+
+### Skills Used
+`Power BI` `Data Visualization` `Business Analysis`
+
+---
+
+## 🛒 Sales Performance Analysis
+- Cleaned and transformed sales datasets.
+- Performed trend and profitability analysis.
+- Generated actionable business insights.
+
+### Skills Used
+`Excel` `SQL` `Power BI`
+
+---
+
+## 🗄 SQL Business Insights Project
+- Wrote complex SQL queries.
+- Created reports using joins, aggregations, and subqueries.
+- Extracted meaningful business metrics.
+
+### Skills Used
+`SQL` `Database Analysis`
+
+---
+
+## 🐍 Python Data Analysis
+- Performed EDA using Python.
+- Used Pandas, NumPy, and Matplotlib.
+- Generated visual reports from raw datasets.
+
+### Skills Used
+`Python` `Pandas` `Data Visualization`
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/maheknandwana9-pixel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:maheknandwana9@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mahek-nandwana-782a223a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 📈 Skills Dashboard
-
-```text
-SQL            ██████████████░░ 90%
-Power BI       █████████████░░░ 88%
-Excel          ████████████░░░░ 85%
-Python         ███████████░░░░░ 80%
-Statistics     ██████████░░░░░░ 75%
-Data Analysis  ██████████████░░ 92%
-```
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Mobile Sales Dashboard
-
-**Tools:** Power BI, Excel
-
-- Built an interactive dashboard for mobile sales analysis
-- Tracked total sales, quantity sold and customer trends
-- Created KPI cards and dynamic visualizations
-- Analyzed brand-wise and region-wise performance
-
-### 📈 Sales Performance Dashboard
-
-**Tools:** Power BI, Excel
-
-- Developed a business performance dashboard
-- Monitored revenue and sales KPIs
-- Identified top-performing products and sales trends
-- Generated actionable business insights
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maheknandwana9-pixel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheknandwana9-pixel&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Advanced SQL Queries
-- Data Visualization
-- Power BI Dashboards
-- Python for Data Analytics
-- Real-World Business Case Studies
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mahek-nandwana-782a223a8/
-- 📧 Email: maheknandwana9@gmail.com
-- 🐙 GitHub: https://github.com/maheknandwana9-pixel
-
----
-
-## 💡 Motto
+# 🎯 Motto
 
 > "Without data, you're just another person with an opinion."
 >
 > — W. Edwards Deming
 
-⭐ Thanks for visiting my profile!
+📈 Turning data into decisions, and decisions into impact.
+
+
+
+
 
 
