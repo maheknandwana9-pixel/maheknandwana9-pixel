@@ -87,7 +87,7 @@ Passionate about transforming raw data into meaningful insights and building int
 
 ## 🎯 Current Focus
 
-- Advanced SQL Queries
+- Data Cleaning
 - Data Visualization
 - Business Intelligence
 - Dashboard Design
