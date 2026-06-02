@@ -71,11 +71,9 @@ Power BI Dashboard for mobile sales, customer behavior and brand-wise analysis.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheknandwana9-pixel&theme=github-dark)
 ---
 
-## 💻 Top Languages
+## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheknandwana9-pixel&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheknandwana9-pixel&theme=github_dark" />
 ---
 
 ## 🤝 Let's Connect
