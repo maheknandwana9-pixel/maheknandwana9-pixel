@@ -3,7 +3,7 @@
   <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" width="100%"height="400>
 </p>
 
-<h1 align="center" style="font-weight:bold;">Hi 👋, I'm Mahek Nandwana</h1>
+<h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
 
 <h3 align="center">
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
