@@ -68,19 +68,17 @@ Power BI Dashboard for mobile sales, customer behavior and brand-wise analysis.
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheknandwana9-pixel&theme=github-dark)
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheknandwana9-pixel&layout=compact&theme=tokyonight)
 ---
 
 ## 🤝 Let's Connect
 
-📧 yourmail@gmail.com
+📧 maheknandwana9@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/mahek-nandwana-782a223a8/
 
