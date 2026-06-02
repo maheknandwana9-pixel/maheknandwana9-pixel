@@ -3,9 +3,7 @@
   <img src="WhatsApp Image 2026-06-02 at 20.35.28.jpeg" width="100%"height="400>
 </p>
 <br>
-    <p align="center">
-  <img  type="hidden"src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mahek+Nandwana" />
-</p>
+    
  <br>   
 <h1 align="center">Hi 👋, I'm Mahek Nandwana</h1>
 
