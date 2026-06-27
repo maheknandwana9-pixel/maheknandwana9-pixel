@@ -71,7 +71,12 @@ Passionate about transforming raw data into meaningful insights and building int
 - Generated actionable business insights.
 
 *Tools Used:* Excel, Power BI, Business Analytics
+### 📈  HR Employee Attrition Analysis
 
+- Built an interactive Power BI dashboard to analyze employee attrition and workforce trends.
+- Performed data cleaning, SQL analysis, and Exploratory Data Analysis (EDA) using Python.
+- Created KPIs, visualizations, and business insights to identify key factors affecting employee turnover.
+- Tools Used: Excel, SQL, Python, Power BI, Pandas, Matplotlib.
 ---
 
 ## 📊 Tools & Technologies
