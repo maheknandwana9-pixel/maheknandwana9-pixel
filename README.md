@@ -86,7 +86,6 @@ Passionate about transforming raw data into meaningful insights and building int
 - Power BI
 - Microsoft Excel
 - Git & GitHub
-- Jupyter Notebook
 
 ---
 
