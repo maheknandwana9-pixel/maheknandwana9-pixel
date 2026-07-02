@@ -54,7 +54,7 @@ Passionate about transforming raw data into meaningful insights and building int
 - Analyzed mobile sales performance and customer trends.
 - Created KPIs, charts, and business insights.
 
-*Tools Used:* Power BI, Excel, Data Visualization
+*Tools Used:* Power BI, Data Visualization
 
 ---
 
