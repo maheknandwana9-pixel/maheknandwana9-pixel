@@ -64,7 +64,7 @@ Passionate about transforming raw data into meaningful insights and building int
 - Performed trend and profitability analysis.
 - Generated actionable business insights.
 
-*Tools Used:* Excel, Power BI, Business Analytics
+*Tools Used:* Excel 
 ### 📈  HR Employee Attrition Analysis
 
 - Built an interactive Power BI dashboard to analyze employee attrition and workforce trends.
